@@ -1,0 +1,25 @@
+PODS:
+  - Changeset (3.1.1)
+  - ReactiveCocoa (10.2.0):
+    - ReactiveSwift (~> 6.2)
+  - ReactiveSwift (6.2.0)
+
+DEPENDENCIES:
+  - Changeset
+  - ReactiveCocoa
+  - ReactiveSwift
+
+SPEC REPOS:
+  trunk:
+    - Changeset
+    - ReactiveCocoa
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  Changeset: 8fc4548b093e1b04329070e14a9feda25e98fc6a
+  ReactiveCocoa: a123c42f449c552460a4ee217dd49c76a17c8204
+  ReactiveSwift: 3dc8800378110b13d40b46ab362afa9f6bcffc6c
+
+PODFILE CHECKSUM: 8886263f2f715e5d3a8796376edf550f57a48541
+
+COCOAPODS: 1.8.4
